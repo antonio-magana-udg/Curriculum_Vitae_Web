@@ -111,6 +111,17 @@ a:active {
   color: #FEFAE0;
   font-weight: 300;
 }
+.contactInfo.references li {
+  margin-bottom: 15px;
+}
+.contactInfo.references h4:nth-child(2) {
+  color: #FEFAE0;
+  font-weight: 300;
+}
+.contactInfo.references h4 {
+  color: #FEFAE0;
+  font-weight: 500;
+}
 .contactInfo.language .percent {
   position: relative;
   width: 100%;
